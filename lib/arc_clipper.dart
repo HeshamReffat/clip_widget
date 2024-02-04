@@ -6,7 +6,11 @@ class ClipWidget extends StatelessWidget {
   final Widget child;
   final double space;
   final Widget topChild;
-  const ClipWidget({super.key,required this.child,required this.space,required this.topChild});
+  const ClipWidget(
+      {super.key,
+      required this.child,
+      required this.space,
+      required this.topChild});
 
   @override
   Widget build(BuildContext context) {
