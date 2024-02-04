@@ -13,7 +13,7 @@ child:Container(height:100,width:100,color:Colors.red,),
 topChild:CircleAvatar(
 radius: 32,
 backgroundColor:Colors.green),
-);
+),
 ```
 
 ## Additional information
