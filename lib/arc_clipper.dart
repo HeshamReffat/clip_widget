@@ -6,10 +6,12 @@ class ClipWidget extends StatelessWidget {
   final Widget child;
   final double space;
   final Widget topChild;
+  final double height;
   const ClipWidget(
       {super.key,
       required this.child,
       required this.space,
+      required this.height,
       required this.topChild});
 
   @override
@@ -19,8 +21,8 @@ class ClipWidget extends StatelessWidget {
       children: [
         Column(
           children: [
-            const SizedBox(
-              height: 30.0,
+             SizedBox(
+              height: height,
             ),
             ClipPath(
               clipper: ArcClipper(space),

@@ -44,8 +44,10 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             ClipWidget(
+              height: 30.0,
               space: 90.0,
-              topChild: const CircleAvatar(radius: 32, backgroundColor: Colors.green),
+              topChild:
+                  const CircleAvatar(radius: 32, backgroundColor: Colors.green),
               child: Container(
                 height: 100,
                 width: 100,
