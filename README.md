@@ -17,5 +17,5 @@ backgroundColor:Colors.green),
 ),
 ```
 ## ScreenShots
-<img src="https://github.com/HeshamReffat/clip_widget/blob/master/screenshots/1.png" height="480px"> <img src="https://github.com/HeshamReffat/clip_widget/blob/master/screenshots/2.png" height="480px"> <img src="https://github.com/HeshamReffat/clip_widget/blob/master/screenshots/3.png" height="480px">
+<img src="https://raw.githubusercontent.com/HeshamReffat/clip_widget/master/screenshots/1.png" height="480px"> <img src="https://raw.githubusercontent.com/HeshamReffat/clip_widget/master/screenshots/2.png" height="480px"> <img src="https://raw.githubusercontent.com/HeshamReffat/clip_widget/master/screenshots/3.png" height="480px">
 

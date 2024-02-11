@@ -1,6 +1,6 @@
 name: arc_clipper
 description: "A new Flutter package with a customized arc drawing that draw arc in the top middle of widget"
-version: 0.0.9
+version: 0.1.0
 homepage: https://github.com/HeshamReffat/clip_widget
 
 environment:
